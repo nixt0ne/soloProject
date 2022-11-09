@@ -1,0 +1,44 @@
+Snowboard Gear Recommendation APP MVP (MERN)
+---
+General: There are alot of snowboarding products on the market that range for the different types of snowboarding conditions. To find which products work the best for your condition type, it takes alot of research to answer some very simple standards that come to product fit. This app intends to take these standards and provide custom recommendations at a high level to help get the user started on their snowboarding product fit journey sooner than the current process on the web.
+
+Problem Statement: As a user, I want to have custom recommendations for snowboard gear types such as board style, board height, boot stiffness, & binding stiffness based on my personal parameters and goals as a snowboarder, so that I dont have to spend alot of time searching and learning the market to find the right gear for me.
+
+MVP Red Belt: Due to a 1.5 week timeline for ideation, wireframes & development, the following will be MVP features:
+General: 
+- Nav Bar
+- AWS deployment
+- Github
+- CSS Bootstrap
+Home Profile Page: 
+- All (Read, Edit & Delete)
+Snowboarder Gear Selector Page:
+- All (Create)
+Snowboard Gear Results Page:
+- Top 3 Images with results fom selector (Read)
+
+MVP Black Belt (If theres time some of these):
+- Landing Page
+- Register
+- Edit Profile Page
+- Login/Logout Functionality (W/Validations)
+- Protected routes on all pages once signed in
+- Update profile picture and background 
+- Add Product photos
+- Update selector photos based on results to show standard styles
+- Update Product Photots based on results to show standard styles(Eventual API)
+- Snowboard Gear Forum w/ Many to many relationship
+- Application responsiveness to mobile & tablet
+- Socket i.o
+- Sorting
+
+Not Doing yet:
+- Third party API but would like to pull in recommended products based on selection results
+- Pagination (Forum)
+
+Not Doing at all:
+- File upload
+- Java Auth
+- AJAX
+- Django instead of flask
+
